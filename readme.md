@@ -39,6 +39,3 @@ As the day goes on, you will add more time. To your daily report, call the Get-T
 ```
 
 This should help you imprpove your time tracking ability.
-
-# To-Do
-It might be nice to be able to remove an entry or substract time. I haven't tested but it may be possible to just pass a negative number to the script and during final calcuation, p
