@@ -23,6 +23,10 @@ To Get today's Time Log run
 If you need to remove time from a record, use the same record ID (first paramater) and then put in a negative number which would indicate how much time to remove from your entry.
 
 ``` 
+    Add-TimeRecord 53577900993738 1
+    ConversationID: 53577900993738 Total Minutes 81
+    Labor Date 08-10-2022 Total Minutes Worked 81
+    
     Add-TimeRecord 53577900993738 -1 
     ConversationID: 53577900993738 Total Minutes 80
     Labor Date 08-10-2022 Total Minutes Worked 80
